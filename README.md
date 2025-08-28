@@ -1,2 +1,13 @@
 # HH_CV_Analysis_SF_PROJECT-1
-HeadHunter CV Analysis, SkillFactory, PROJECT-1, 2025
+
+### Проект по анализу резюме сайта HeadHunter
+
+(в рамках обучения на курсе Data Science платформы SkillFactory)
+
+Для данного проекта необходимы следующие наборы данных:
+- [dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/17QR0VnxYIPkdoNnlrIlvjmuGXTdbrhgS/view?usp=sharing) (архив необходимо распаковать), файл содержит резюме кандидатов;
+- ExchangeRates.csv (файл, содержащий курсы валют);
+- currency_iso.xlsx (файл с пропорциями валют).
+
+В проекте осуществляется анализ представленных резюме, очистка данных от некорректных значений, выбросов и пропусков, построены ряд графиков для анализа зависимостей параметров друг от друга.
+  
